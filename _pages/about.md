@@ -6,7 +6,7 @@ subtitle: Ph.D. student, School of School of Mechanical Science & Engineering, H
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jiangnan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
