@@ -1,6 +1,6 @@
 
 
-@article{cao2024deep,
+@article{Cao2024deep,
   title={A deep learning model for online prediction of in-process dynamic characteristics of thin-walled complex blade machining},
   abstract={Online prediction of the dynamic characteristics of thin-walled workpieces, such as turbine blades, during the material removal process, plays an important role in the construction of digital twins systems for high-performance machining processes. However, the complex surfaces, thin-walled structures and time-varying characteristics of the blade machining process bring great challenges. The existing methods are either for simple structures or unadaptable to the continuous variation of the modal parameters, which cannot meet the requirements of online prediction for complex blade machining. To this end, this paper constructs a generative adversarial network with two output branches. By taking geometric information as input, online prediction of the modal parameters during the machining of complex thin-walled blades is realized. Considering the deviation between measured and predicted frequencies, an eXtreme Gradient Boosting model is established to modify the frequency branch of the network, which enables the model to be adaptive to machining uncertainties. By integrating the proposed network into the self-developed computer-aided manufacturing software, a digital shadow system of modal parameters prediction during blade machining is constructed. The verification experiments show that the calculation time of the proposed model is 1.35 s. The results demonstrate that the above system can achieve high-performance online prediction of modal parameters in the thin-walled complex blade machining process.},
   author={
@@ -35,17 +35,6 @@
 }
 
 
-@article{Cao2024prediction,
-  title={An adaptive step-by-step registration method for deformed and damaged thin-walled blisk blade},
-  abstract={Registration and reconstruction are critical steps in the repair and remanufacturing process of thin-walled damaged blades. However, various deformations and damages due to extreme service conditions, combined with inconsistent relative poses after measurement, bring significant challenges to the registration process. To this end, an adaptive step-by-step registration method is proposed, which includes three consecutive steps of coarse, semi-fine, and fine registration to achieve efficient and high-precision registration of thin-walled blades. A learning-based matching network is introduced into the coarse registration model to achieve accurate preliminary matching and registration under complex surface features. Random deformation fields, initial relative poses, and damage types are employed as the data augmentation method in the training process to improve the generalization of the coarse registration model. The voxel downsampling method is employed to enhance the accuracy of the semi-fine registration, providing better initial values for the subsequent fine registration, reducing the number of iterations, and improving the overall efficiency. The kd-tree search method and the vectorized storage are utilized to construct the corresponding matrix to improve the computational efficiency and the ability to deal with dense point clouds of the N-ICP fine registration algorithm. Simulations and experiments on actual blisk blades show that the proposed algorithm has good robustness and applicability under different damage types, deformation fields, and initial relative poses.},
-  author={Cao</span></b></b>,  <b><b><span style="color: #8B008B;">Zhengtong and Huang, Tao and Huang, Pu and Zhang, Xiao-Ming and Ding, Han},
-  journal={Journal of Manufacturing Processes},
-  publisher={Elsevier},
-  selected={true},
-  preview={overall2.png},
-  dimensions={true},
-}
-
 @article{Dai2024prediction ,
   title={A framework for parameters planning in hybrid milling of flexible blades},
   abstract={In milling of flexible workpieces, like thin-wall blades, cutting force induced deformation and vibration are great adverse issues which are almost inevitable. Semifinish-finish (SF) hybrid milling is a promising strategy to obtain a high-accuracy and quality surface, which separates the object blade into several layers in the radial direction of the blisk, and then for each layer, from blade tip to root, using SF hybrid milling as a cycle to finish the current layer, and then move to the next layer. However, two extra contradictions are intruduced in process planning: (1) Considering the number of layers: To decrease the machining deformation error, we should increase the number of layers, which however increases the time consumption because of frequent tool path switching between semifinishing and finishing; (2) As to the allowance of semifinishing: To decrease the machining deformation error, we should increase the allowance in semifinishing to enhance stiffness, which however increases tool wear sicne more matearial needs to be removed by the tool. To balance the contradictions, this paper constructs a framework for parameters planning for SF hybrid milling, in which the allowance, number of layers as well as the length of each layer are optimized so that we are able to control the deformation error while maintaining high cutting efficiency. The method is verified by simulation and validation experiments. Compared with traditional non-layering and uniform layering machining, the maximum deformation error by optimized layering machining is reduced by 76.4% and 48.6%, respectively.},
@@ -55,6 +44,19 @@
   selected={true},
   publisher={Transaction of the ASME},
   preview={schematic1.png},
+  dimensions={true},
   pdf={https://doi.org/10.1115/1.4067741},
 }
 
+
+@article{Cao2024adaptive,
+  title={An adaptive step-by-step registration method for deformed and damaged thin-walled blisk blade},
+  abstract={Registration and reconstruction are critical steps in the repair and remanufacturing process of thin-walled damaged blades. However, various deformations and damages due to extreme service conditions, combined with inconsistent relative poses after measurement, bring significant challenges to the registration process. To this end, an adaptive step-by-step registration method is proposed, which includes three consecutive steps of coarse, semi-fine, and fine registration to achieve efficient and high-precision registration of thin-walled blades. A learning-based matching network is introduced into the coarse registration model to achieve accurate preliminary matching and registration under complex surface features. Random deformation fields, initial relative poses, and damage types are employed as the data augmentation method in the training process to improve the generalization of the coarse registration model. The voxel downsampling method is employed to enhance the accuracy of the semi-fine registration, providing better initial values for the subsequent fine registration, reducing the number of iterations, and improving the overall efficiency. The kd-tree search method and the vectorized storage are utilized to construct the corresponding matrix to improve the computational efficiency and the ability to deal with dense point clouds of the N-ICP fine registration algorithm. Simulations and experiments on actual blisk blades show that the proposed algorithm has good robustness and applicability under different damage types, deformation fields, and initial relative poses.},
+  author={Cao</span></b></b>,  <b><b><span style="color: #8B008B;">Zhengtong and Huang, Tao and Huang, Pu and Zhang, Xiao-Ming and Ding, Han},
+  journal={Journal of Manufacturing Processes(Accept)},
+  year={2026},
+  publisher={Elsevier},
+  selected={true},
+  preview={overall2.png},
+  dimensions={true},
+}
