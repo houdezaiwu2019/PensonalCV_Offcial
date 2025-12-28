@@ -40,7 +40,7 @@ Honors and Awards: True
 - Formula Student Electric China (FSEC), **First Prize**, 2020
 - MCM/ICM, **Honor Winner**, 2020
 
-- **National Scholarship** (**top 1%**), Ministry of Education of China, 2020
+- **National Scholarship** (**top 1%**), **Ministry** **of** **Education** **of** **the** **People's** **Republic** **of** **China**, 2020
 - Excellent Student Award (every year), of Central South University, 2018, 2019, 2020
 - First-class Scholarship of Central South University (**top 3%**), 2019, 2020
 - Second-class Scholarship of Central South University (**top 5%**), 2018
