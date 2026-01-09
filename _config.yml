@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: False
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -76,13 +76,13 @@ telegram_username: # your Telegram user name
 scholar_userid: _BXYJfsAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0009-0003-0144-2732 # your ORCID ID
+orcid_id: 0009-0003-0144-2732 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Zhengtong-Cao?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlVmVyaWZpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoiaG9tZSJ9fQ# your profile on ResearchGate
+research_gate_profile: Zhengtong-Cao # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL

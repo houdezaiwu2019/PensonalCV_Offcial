@@ -8,7 +8,7 @@ profile:
   align: right
   image: jiangnan.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Success come with your hands in your pockets
+  more_info: >
 
 
 news: true  # includes a list of news items
