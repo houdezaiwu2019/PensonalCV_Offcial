@@ -11,9 +11,9 @@ profile:
   more_info: >
 
 
-News: true  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: False  # includes a list of the newest posts
-Selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 Honors and Awards: True
 ---
