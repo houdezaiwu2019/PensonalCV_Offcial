@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student, School of School of Mechanical Science & Engineering, HUST
+subtitle: Ph.D. student, School of Mechanical Science & Engineering, HUST
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: False # includes social icons at the bottom of the page
 Honors and Awards: True
 ---
 
-- I am currently a  Ph.D. student at School of [Mechanical Science & Engineering](http://mse.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China. 
+- I am currently a Ph.D. student at School of [Mechanical Science & Engineering](http://mse.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China. 
 - Before that, I received the Bachelor of Vehicle Engineering at the College of Mechanical and Electrical Engineering  (CMEE) , [Central South University](https://www.csu.edu.cn/), Changsha, China.
 - My research interests include intelligent manufacturing, deep learning, CAM, and machine tool.
 
@@ -53,5 +53,6 @@ Honors and Awards: True
 - First-class Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2021, 2022, 2023
 - Third-class Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2024, 2025
 
+## Service
 
-
+Student Reviewer of *Journal of Intelligent Manufacturing(JIM)* .
