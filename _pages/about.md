@@ -55,4 +55,4 @@ Honors and Awards: True
 
 ## Service
 
-Student Reviewer of *Journal of Intelligent Manufacturing(JIM)* .
+- Student reviewer of ***Journal of Intelligent Manufacturing(JIM)*** .
