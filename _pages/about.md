@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student, School of Mechanical Science & Engineering, HUST
+subtitle: Ph.D. Student in Mechanical Engineering, Huazhong University of Science and Technology
 
 profile:
   align: right
-  image: jiangnan.jpg
+  image: image.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -18,9 +18,9 @@ social: False # includes social icons at the bottom of the page
 Honors and Awards: True
 ---
 
-- I am currently a Ph.D. student at School of [Mechanical Science & Engineering](http://mse.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), Wuhan, China. 
-- Before that, I received the Bachelor of Vehicle Engineering at the College of Mechanical and Electrical Engineering  (CMEE) , [Central South University](https://www.csu.edu.cn/), Changsha, China.
-- My research interests include intelligent manufacturing, deep learning, CAM, and machine tool.
+- I am currently a Ph.D. student in the [School of Mechanical Science and Engineering](http://mse.hust.edu.cn/) at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), Wuhan, China.
+- Prior to beginning my doctoral studies, I received a B.Eng. in Vehicle Engineering from the College of Mechanical and Electrical Engineering (CMEE) at [Central South University](https://www.csu.edu.cn/), Changsha, China.
+- My research interests include intelligent manufacturing, deep learning, computer-aided manufacturing (CAM), and machine tools.
 
 
 
