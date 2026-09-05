@@ -7,6 +7,7 @@ subtitle: Ph.D. Student in Mechanical Engineering, Huazhong University of Scienc
 profile:
   align: right
   image: image.png
+  width: 25%
   image_circular: false # crops the image to make it circular
   more_info: >
 
